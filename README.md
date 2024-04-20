@@ -1,4 +1,4 @@
-# SOFA_ENV
+# SOFA_ENV DIANA
 Gym environments for reinforcement learning based on the [SOFA Simulation Framework](https://www.sofa-framework.org/).
 This repository is part of "LapGym - An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery".
 See [LapGym](https://www.jmlr.org/papers/v24/23-0207.html) for the paper and [lap_gym](https://github.com/ScheiklP/lap_gym) for the top level repository.
